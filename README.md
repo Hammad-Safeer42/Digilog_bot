@@ -14,4 +14,4 @@ Welcome to the Digilog Shopping Bot repository! This Python script automates the
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/digilog-shopping-bot.git
+   [git clone https://github.com/Hammad-Safeer42/digilog-shopping-bot.git]
